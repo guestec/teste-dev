@@ -1,3 +1,7 @@
+## Bruno Grando
+Enviando os arquivos em HTML e CSS.
+Grato pela oportunidade.
+
 # Teste Dev
 
 Seja bem-vind@ ao desafio de desenvolvimento da Guestec. Nosso objetivo é validar seus conhecimentos em front-end, além dos conhecimentos com WordPress e ACF. Estamos à procura de alguém que vá além de customizar temas prontos. Nossos projetos são 100% customizados de acordo com as necessidades de cada cliente, então o desafio é criar um tema WordPress do zero.
