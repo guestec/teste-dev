@@ -214,7 +214,7 @@ body a:hover{
 }
 .slide-items{
     scrollbar-width: thin;
-    scrollbar-color: blue orange;
+    scrollbar-color: orange white;
     display:flex;
 
     overflow-x: auto;
@@ -359,7 +359,7 @@ body a:hover{
     direction: rtl;
     max-height:  400px;
     scrollbar-width: thin;
-    scrollbar-color: blue orange;
+    scrollbar-color: orange white;
 }
 .options-facilities::-webkit-scrollbar {
     width: 12px;
