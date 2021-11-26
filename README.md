@@ -1,5 +1,13 @@
 # Teste Dev
 
+ENVIO DO TESTE PARA DEV WORDPRESS 
+
+NOME: Douglas Oliveira Gomes 
+
+Oque usei?
+HTML,CSS,JS
+WEBBUILDER
+
 Seja bem-vind@ ao desafio de desenvolvimento da Guestec. Nosso objetivo é validar seus conhecimentos em front-end, além dos conhecimentos com WordPress e ACF. Estamos à procura de alguém que vá além de customizar temas prontos. Nossos projetos são 100% customizados de acordo com as necessidades de cada cliente, então o desafio é criar um tema WordPress do zero.
 
 Nesse link você encontra o protótipo de um site que vamos utilizar como base. Você precisa criar o tema WordPress (front-end e back-end) com fidelidade ao design proposto e que seja responsivo, se adaptando a qualquer tamanho de tela. Como não fornecemos a tela mobile, fica ao seu critério definir como ele se comportará em dispositivos móveis.
